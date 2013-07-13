@@ -1,0 +1,4 @@
+# ignore executable
+a.out
+# backup text
+*~

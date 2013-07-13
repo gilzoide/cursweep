@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 // Compile with '-lpanel -lncurses -lm'
 
-=======
->>>>>>> bebb53393dc7de85ff52e1508e02e18526ffda32
 #include <ncurses.h>
 #include <stdlib.h>
 #include <time.h>
